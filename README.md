@@ -1,3 +1,4 @@
+<div align="center">
 # Methodica
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -12,6 +13,7 @@ data → quality review → method → assumptions → analysis → validation �
 ```
 
 > Methodica is a research and analytics aid, not a substitute for statistical review. Check model choices, assumptions, and conclusions in the context of your study.
+</div>
 
 ## Contents
 
