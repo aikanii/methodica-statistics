@@ -13,27 +13,13 @@ data → quality review → method → assumptions → analysis → validation �
 ```
 
 > Methodica is a research and analytics aid, not a substitute for statistical review. Check model choices, assumptions, and conclusions in the context of your study.
-</div>
 
 ## Contents
 
-- [Highlights](#highlights)
-- [Technology stack](#technology-stack)
-- [Architecture](#architecture)
-- [Repository structure](#repository-structure)
-- [Prerequisites](#prerequisites)
-- [Quick start](#quick-start)
-- [Using Methodica](#using-methodica)
-- [Sample datasets](#sample-datasets)
-- [API overview](#api-overview)
-- [End-to-end API example](#end-to-end-api-example)
-- [Cleaning operations](#cleaning-operations)
-- [Statistical methods](#statistical-methods)
-- [Configuration and data storage](#configuration-and-data-storage)
-- [Development](#development)
-- [Troubleshooting](#troubleshooting)
-- [Security and limitations](#security-and-limitations)
-- [License](#license)
+- [Highlights](#highlights)    - [Technology stack](#technology-stack)    - [Architecture](#architecture)    - [Repository structure](#repository-structure)    - [Prerequisites](#prerequisites)    - [Quick start](#quick-start)    - [Using Methodica](#using-methodica)    - [Sample datasets](#sample-datasets)    - [API overview](#api-overview)    - [End-to-end API example](#end-to-end-api-example)    - [Cleaning operations](#cleaning-operations)
+- [Statistical methods](#statistical-methods)    - [Configuration and data storage](#configuration-and-data-storage)    - [Development](#development)    - [Troubleshooting](#troubleshooting)    - [Security and limitations](#security-and-limitations)    - [License](#license)
+
+</div>
 
 ## Highlights
 
